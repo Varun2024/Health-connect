@@ -26,4 +26,4 @@ Prerequisites:
 Frontend:
 1. Navigate to Frontend folder.
 2. Install necessary node dependencies by running "npm install" in your terminal
-3. Setup tailwind css along with dependencies of the vite . You can refer to [here](https://tailwindcss.com/docs/guides/vite )
+3. Setup tailwind css along with dependencies of the vite bundler. You can refer to [here](https://tailwindcss.com/docs/guides/vite )
