@@ -7,9 +7,11 @@ Imagine a platform that allows patients to seamlessly connect with doctors, book
 
 *Inefficient Appointment Systems:* Current healthcare appointment management lacks efficiency, causing frustration for both patients and healthcare providers.
 
-**Long Wait Times: **Patients often experience long wait times when trying to schedule or attend appointments.
+*Long Wait Times:* Patients often experience long wait times when trying to schedule or attend appointments.
+
 *Missed Appointments:* High rates of no-shows disrupt healthcare workflows and lead to lost revenue for providers.
-**Poor Communication: **A lack of streamlined communication between patients and doctors results in missed information, leading to delays in treatment.
+
+*Poor Communication:* A lack of streamlined communication between patients and doctors results in missed information, leading to delays in treatment.
 
 HealthConnect is designed to solve the inefficienciesin health appointment scheduling,Management of patient records, and improving thepatient-doctor communication process.
 It ensures a seamless, secure, and user-friendly platform for healthcare
