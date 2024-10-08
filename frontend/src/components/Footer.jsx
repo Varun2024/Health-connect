@@ -16,7 +16,7 @@ const Footer = () => {
           </p>
         </div>
 
-        <div className='bg-orange-500 text-white px-5 rounded-lg'>
+        <div className='bg-orange-500 text-white px-5 rounded-lg hover:scale-105 transition-all duration-200 delay-150 hover:shadow-lg'>
           <p className='text-xl font-medium pt-5 mb-5 text-gray-900'>COMPANY</p>
           <ul className='flex flex-col gap-2 hover:cursor-pointer'>
             <li className='hover:underline'>Home</li>
@@ -26,7 +26,7 @@ const Footer = () => {
           </ul>
         </div>
 
-        <div className='bg-gray-900 px-5 rounded-lg'>
+        <div className='bg-gray-900 px-5 rounded-lg hover:scale-105 transition-all duration-200 delay-150 hover:shadow-lggit'>
           <p className='text-xl font-medium mb-5 pt-5 text-white '>GET IN TOUCH</p>
           <ul className='flex flex-col gap-2 text-white'>
             <li>+91 12345 67890</li>

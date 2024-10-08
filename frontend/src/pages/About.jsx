@@ -5,8 +5,8 @@ const About = () => {
   return (
     <div className='md:mx-15'>
       <div className="bg-gradient-to-tr from-[#EE9AE5] to-[#5961F9] rounded-lg shadow-lg md:mb-10">
-        <div className='text-center text-2xl pt-10 text-white  '>
-          <p>ABOUT <span className='bold'>US</span></p>
+        <div className='text-center text-2xl pt-10 text-gray-200  '>
+          <p>ABOUT <span className='semibold text-gray-900'>US</span></p>
         </div>
 
         <div className=' flex flex-col md:flex-row md:mx-15 gap-12 '>
@@ -27,7 +27,7 @@ const About = () => {
       </div>
 
       <div className='flex flex-col md:flex-row mb-20 space-x-5'>
-        <div className='border-2 shadow-lg  px-10 md:px-16 py-8 sm:py-16 flex flex-col gap-5 text-[15px] hover:bg-orange-500 hover:text-white hover:scale-105 transition-all ease-in-out duration-200 delay-130 hover:shadow-lg text-gray-600 cursor-pointer rounded-lg  '>
+        <div className='border-2 shadow-lg px-10 md:px-16 py-8 sm:py-16 flex flex-col gap-5 text-[15px] hover:bg-orange-500 hover:text-white hover:scale-105 transition-all ease-in-out duration-200 delay-130 hover:shadow-lg text-gray-600 cursor-pointer rounded-lg  '>
             <b className='text-lg'>AI-powered ChatBot:</b>
             <p>AI assitance at your service to help you navigate through the site</p>
            </div>
