@@ -27,3 +27,11 @@ Frontend:
 1. Navigate to Frontend folder.
 2. Install necessary node dependencies by running "npm install" in your terminal
 3. Setup tailwind css along with dependencies of the vite bundler. You can refer to [here](https://tailwindcss.com/docs/guides/vite )
+
+
+Here's a demo of the project:
+The List of the doctors doesnt show as of now , well cos the free server service expired XD, hehe.
+
+https://github.com/user-attachments/assets/c9e1714f-f3ca-4c1c-b82f-93b108c0f455
+
+
